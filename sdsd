@@ -45,6 +45,8 @@ https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2022-04-02/vidFs6VzA84op.smil/
 https://cdn.alarab.com/h264/170516_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3u3cyfu" group-title="001م السوري رمضان2022حوازيق",الحلقةS01E01
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-02/vidZ18G0YzraV.smil/chunklist.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3u3cyfu" group-title="001م السوري رمضان2022حوازيق",الحلقةS01E02
+https://fvideo6b.ddns.me/2vod5n/7wazeq-2.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3J1OKws" group-title="001م السوري رمضان2022لو بعد حين",الحلقةS01E01
 https://cdn.alarab.com/h264/170507_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3J1OKws" group-title="001م السوري رمضان2022لو بعد حين",الحلقةS01E02
@@ -128,7 +130,9 @@ https://fvideo6.ddns.me/2vod5n/al5tear-3-1.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NL3OT1" group-title="001م المصري رمضان2022العائدون",الحلقةS01E01
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-03/studioEVKBS.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35yYRv5" group-title="001م المصري رمضان2022اللغز",الحلقةS01E01
-https://fvideo6.ddns.me/2vod5n/allogz-1.mp4/chunk.m3u8
+https://fvideo6.ddns.me/2vod5n/allogz-1.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35yYRv5" group-title="001م المصري رمضان2022اللغز",الحلقةS01E02
+https://fvideo6b.ddns.me/2vod5n/allogz-2.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3K3gpi5" group-title="001م المصري رمضان2022دنيا تانية",الحلقةS01E01
 https://cdn.alarab.com/h264/170500_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3K3gpi5" group-title="001م المصري رمضان2022دنيا تانية",الحلقةS01E02
@@ -191,6 +195,8 @@ https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-01/vid46uM1Neda5.sm
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-02/vidC4UZyOBYKS.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3Kb24QQ" group-title="002م الخليجي رمضان2022لغز 1990",الحلقةS01E01
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-02/studioHMAHJ.smil/chunklist.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3Kb24QQ" group-title="002م الخليجي رمضان2022لغز 1990",الحلقةS01E02
+https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-03-23/vidbpGwUSWmBe.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uSoQGu" group-title="002م الخليجي رمضان2022بيبي",الحلقةS01E01
 https://fvideo6b.ddns.me/2vod5n/bebe-1.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uSoQGu" group-title="002م الخليجي رمضان2022بيبي",الحلقةS01E02
