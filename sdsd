@@ -232,6 +232,10 @@ https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2022-04-02/vidrclSo52yEa.smil/
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2022-04-03/vidEWauUqjSNn.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3u1zjQU" group-title="002م الخليجي رمضان2022حمد علي رود",الحلقةS01E01
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2022-04-02/vid4RH9BlUNTa.smil/chunklist.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3u1zjQU" group-title="002م الخليجي رمضان2022حمد علي رود",الحلقةS01E02
+https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2022-04-03/vidPn7ujcAloY.smil/chunklist.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3u1zjQU" group-title="002م الخليجي رمضان2022حمد علي رود",الحلقةS01E03
+https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2022-04-04/vidWuHEIvzfg5.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3J2OIV2" group-title="002م الخليجي رمضان2022عائلة عبد الحميد حافظ",الحلقةS01E01
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2022-04-02/vidGAej4MiDKr.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3J2OIV2" group-title="002م الخليجي رمضان2022عائلة عبد الحميد حافظ",الحلقةS01E02
@@ -243,7 +247,9 @@ https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-02/vidrZofaD8GLw.sm
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/37amCtL" group-title="002م الخليجي رمضان2022الفنر",الحلقةS01E03
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-03/studioTXAUS.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38p41ek" group-title="002م الخليجي رمضان2022منهو ولدنا؟",الحلقةS01E01
-https://fvideo6b.ddns.me/2vod5n/manho-wldna-1.mp4/chunk.m3u8
+https://fvideo6b.ddns.me/2vod5n/manho-wldna-1.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38p41ek" group-title="002م الخليجي رمضان2022منهو ولدنا؟",الحلقةS01E02
+https://fvideo6.ddns.me/2vod5n/manho-waldna-2.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3J2mSbI" group-title="002م الخليجي رمضان2022حضرة الموقف",الحلقةS01E01
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-02/studioQVRJA.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3J2mSbI" group-title="002م الخليجي رمضان2022حضرة الموقف",الحلقةS01E02
@@ -300,12 +306,16 @@ https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-02/studioVHBGY.smil
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-03/studioGYUPX.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="https://bit.ly/3DyVH7f" tvg-logo="" group-title="002م الخليجي رمضان2022حريم طارق",الحلقةS01E01
 https://fvideo6.ddns.me/2vod5n/no7-el3en-1.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="https://bit.ly/3DyVH7f" tvg-logo="" group-title="002م الخليجي رمضان2022حريم طارق",الحلقةS01E02
+https://fvideo6.ddns.me/2vod5n/7arem-tarek-2.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="https://bit.ly/3iZf53L" tvg-logo="" group-title="002م الخليجي رمضان2022نوح العين",الحلقةS01E01
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-02/vid5fHJLuFZK3.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="https://bit.ly/3iZf53L" tvg-logo="" group-title="002م الخليجي رمضان2022نوح العين",الحلقةS01E02
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-03/vidBOIcHEAd5P.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="https://bit.ly/3NHcCsV" tvg-logo="" group-title="002م الخليجي رمضان2022سكر ساده",الحلقةS01E01
 https://fvideo6.ddns.me/2vod5n/sokar-sada-1.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="https://bit.ly/3NHcCsV" tvg-logo="" group-title="002م الخليجي رمضان2022سكر ساده",الحلقةS01E02
+https://fvideo6.ddns.me/2vod5n/sokar-sada-2.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="https://bit.ly/37ayZq2" tvg-logo="" group-title="002م الخليجي رمضان2022مشراق",الحلقةS01E01
 https://fvideo6.ddns.me/2vod5n/mshrak-1.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="https://bit.ly/37ayZq2" tvg-logo="" group-title="002م الخليجي رمضان2022مشراق",الحلقةS01E02
