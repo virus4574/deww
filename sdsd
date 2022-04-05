@@ -327,17 +327,21 @@ https://cdn.alarab.com/h264/170601_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3a5nxdD" group-title="001م المصري رمضان2022المداح",الحلقةS02E04
 https://cdn.alarab.com/h264/170661_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3x42WTo" group-title="001م المصري رمضان2022الاختيار 3",الحلقةS03E01
-https://fvideo6.ddns.me/2vod5n/al5tear-3-1.mp4/chunk.m3u8?/ss/
+https://cdn.alarab.com/h264/170543_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3x42WTo" group-title="001م المصري رمضان2022الاختيار 3",الحلقةS03E02
 https://cdn.alarab.com/h264/170595_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3x42WTo" group-title="001م المصري رمضان2022الاختيار 3",الحلقةS03E03
-https://fvideo6.ddns.me/2vod5n/ale5tiar-3-3.mp4/chunk.m3u8?/ss/
+https://cdn.alarab.com/h264/170654_720p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3x42WTo" group-title="001م المصري رمضان2022الاختيار 3",الحلقةS03E04
+https://cdn.alarab.com/h264/170711_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NL3OT1" group-title="001م المصري رمضان2022العائدون",الحلقةS01E01
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-03/studioEVKBS.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NL3OT1" group-title="001م المصري رمضان2022العائدون",الحلقةS01E02
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-04/studioWYLTV.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NL3OT1" group-title="001م المصري رمضان2022العائدون",الحلقةS01E03
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-05/studioRJWJH.smil/chunklist.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NL3OT1" group-title="001م المصري رمضان2022العائدون",الحلقةS01E04
+https://dmifrta.cdn.mangomolo.com/vod/_definst_/mp4:2022-04-06/studioFMXIA.mp4/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35yYRv5" group-title="001م المصري رمضان2022اللغز",الحلقةS01E01
 https://fvideo6.ddns.me/2vod5n/allogz-1.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35yYRv5" group-title="001م المصري رمضان2022اللغز",الحلقةS01E02
