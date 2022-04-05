@@ -161,7 +161,7 @@ https://cdn.alarab.com/h264/170548_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3J2JTeo" group-title="001م السوري رمضان2022للموت 2",الحلقةS02E03
 https://cdn.alarab.com/h264/170603_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3J2JTeo" group-title="001م السوري رمضان2022للموت 2",الحلقةS02E04
-https://fvideo6.ddns.me/2vod5n/llmot-2-4.mp4/chunk.m3u8?/ss/
+https://cdn.alarab.com/h264/170724_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3J2JTeo" group-title="001م السوري رمضان2022للموت 2",الحلقةS02E05
 https://fvideo6b.ddns.me/2vod5n/llmot-2-5.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NFqlQZ" group-title="001م المصري رمضان2022بابلو",الحلقةS01E01
@@ -281,7 +281,7 @@ https://cdn.alarab.com/h264/170600_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWcEas" group-title="001م المصري رمضان2022جزيرة غمام",الحلقةS01E03
 https://cdn.alarab.com/h264/170660_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWcEas" group-title="001م المصري رمضان2022جزيرة غمام",الحلقةS01E04
-https://fvideo6b.ddns.me/2vod5n/jzert-gomam-4.mp4/chunk.m3u8?/ss/
+https://cdn.alarab.com/h264/170713_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38nVmZD" group-title="001م المصري رمضان2022دايما عامر",الحلقةS01E01
 https://fvideo6b.ddns.me/2vod5n/daeman-3amr-1.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38nVmZD" group-title="001م المصري رمضان2022دايما عامر",الحلقةS01E02
@@ -608,6 +608,8 @@ https://cdn.alarab.com/h264/170539_720p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/170599_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35zb2rP" group-title="001م فلسطين رمضان2022شارة النصر جلبوع",الحلقةS01E03
 https://cdn.alarab.com/h264/170663_720p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35zb2rP" group-title="001م فلسطين رمضان2022شارة النصر جلبوع",الحلقةS01E04
+https://cdn.alarab.com/h264/170723_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3DwHwj0" group-title="001م العراق رمضان2022الماس مكسور",الحلقةS01E01
 https://fvideo6b.ddns.me/2vod5n/almas-maksor-1.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3DwHwj0" group-title="001م العراق رمضان2022الماس مكسور",الحلقةS01E02
