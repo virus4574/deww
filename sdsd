@@ -36,6 +36,8 @@ https://cdn.alarab.com/h264/170662_720p.mp4/index-v1-a1.m3u8?/ss/
 https://fvideo6.ddns.me/2vod5n/bab-el7ara-12-5.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3iVRm4m" group-title="001م السوري رمضان2022باب الحارة 12",الحلقةS12E06
 https://cdn.alarab.com/h264/170754_720p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3iVRm4m" group-title="001م السوري رمضان2022باب الحارة 12",الحلقةS12E07
+https://cdn.alarab.com/h264/170823_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3K6r8bm" group-title="001م السوري رمضان2022حارة القبة 2",الحلقةS02E01
 https://cdn.alarab.com/h264/170509_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3K6r8bm" group-title="001م السوري رمضان2022حارة القبة 2",الحلقةS02E02
@@ -260,6 +262,8 @@ https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2022-04-05/vidX8d1erKsh5.smil/
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2022-04-06/vidIlROBEzr6h.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NKDs3u" group-title="001م المصري رمضان2022وجوه",الحلقةS01E06
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2022-04-07/vidPIbmeXqxBN.smil/chunklist.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NKDs3u" group-title="001م المصري رمضان2022وجوه",الحلقةS01E07
+https://cdn.alarab.com/h264/170821_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/36JzgAs" group-title="001م المصري رمضان2022الكبير اوي 6",الحلقةS01E01
 https://fvideo6.ddns.me/2vod5n/kber-awe-6-1.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/36JzgAs" group-title="001م المصري رمضان2022الكبير اوي 6",الحلقةS01E02
@@ -284,6 +288,8 @@ https://cdn.alarab.com/h264/170645_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/170699_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38omCqW" group-title="001م المصري رمضان2022انحراف",الحلقةS01E06
 https://cdn.alarab.com/h264/170761_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38omCqW" group-title="001م المصري رمضان2022انحراف",الحلقةS01E07
+https://cdn.alarab.com/h264/170817_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3K8yUla" group-title="001م المصري رمضان2022يو تيرن",الحلقةS01E01
 https://cdn.alarab.com/h264/170524_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3K8yUla" group-title="001م المصري رمضان2022يو تيرن",الحلقةS01E02
@@ -387,9 +393,9 @@ https://cdn.alarab.com/h264/170709_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/374RvzY" group-title="001م المصري رمضان2022مين قال",الحلقةS01E06
 https://cdn.alarab.com/h264/170704_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/374RvzY" group-title="001م المصري رمضان2022مين قال",الحلقةS01E07
-https://cdn.alarab.com/h264/170764_480p.mp4/index-v1-a1.m3u8?/ss/
+https://cdn.alarab.com/h264/170764_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/374RvzY" group-title="001م المصري رمضان2022مين قال",الحلقةS01E08
-https://fvideo6.ddns.me/2vod5n/men-qal-8.mp4/chunk.m3u8?/ss/
+https://cdn.alarab.com/h264/170820_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWcEas" group-title="001م المصري رمضان2022جزيرة غمام",الحلقةS01E01
 https://cdn.alarab.com/h264/170545_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWcEas" group-title="001م المصري رمضان2022جزيرة غمام",الحلقةS01E02
@@ -401,7 +407,7 @@ https://cdn.alarab.com/h264/170713_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWcEas" group-title="001م المصري رمضان2022جزيرة غمام",الحلقةS01E05
 https://fvideo6b.ddns.me/2vod5n/jzert-gomam-5.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWcEas" group-title="001م المصري رمضان2022جزيرة غمام",الحلقةS01E06
-https://fvideo6.ddns.me/2vod5n/jzert-gomam-6.mp4/chunk.m3u8?/ss/
+https://cdn.alarab.com/h264/170826_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38nVmZD" group-title="001م المصري رمضان2022دايما عامر",الحلقةS01E01
 https://fvideo6b.ddns.me/2vod5n/daeman-3amr-1.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38nVmZD" group-title="001م المصري رمضان2022دايما عامر",الحلقةS01E02
@@ -483,9 +489,11 @@ https://cdn.alarab.com/h264/170601_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3a5nxdD" group-title="001م المصري رمضان2022المداح",الحلقةS02E04
 https://cdn.alarab.com/h264/170661_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3a5nxdD" group-title="001م المصري رمضان2022المداح",الحلقةS02E05
-https://cdn.alarab.com/h264/170766_480p.mp4/index-v1-a1.m3u8?/ss/
+https://cdn.alarab.com/h264/170766_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3a5nxdD" group-title="001م المصري رمضان2022المداح",الحلقةS02E06
-https://fvideo6b.ddns.me/2vod5n/almda7-7.mp4/chunk.m3u8?/ss/
+https://cdn.alarab.com/h264/170766_720p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3a5nxdD" group-title="001م المصري رمضان2022المداح",الحلقةS02E07
+https://cdn.alarab.com/h264/170824_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3x42WTo" group-title="001م المصري رمضان2022الاختيار 3",الحلقةS03E01
 https://cdn.alarab.com/h264/170543_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3x42WTo" group-title="001م المصري رمضان2022الاختيار 3",الحلقةS03E02
@@ -495,7 +503,9 @@ https://cdn.alarab.com/h264/170654_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3x42WTo" group-title="001م المصري رمضان2022الاختيار 3",الحلقةS03E04
 https://cdn.alarab.com/h264/170711_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3x42WTo" group-title="001م المصري رمضان2022الاختيار 3",الحلقةS03E05
-https://cdn.alarab.com/h264/170768_480p.mp4/index-v1-a1.m3u8?/ss/
+https://cdn.alarab.com/h264/170768_720p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3x42WTo" group-title="001م المصري رمضان2022الاختيار 3",الحلقةS03E06
+https://cdn.alarab.com/h264/170827_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NL3OT1" group-title="001م المصري رمضان2022العائدون",الحلقةS01E01
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-03/studioEVKBS.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NL3OT1" group-title="001م المصري رمضان2022العائدون",الحلقةS01E02
@@ -506,6 +516,8 @@ https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-05/studioRJWJH.smil
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/mp4:2022-04-06/studioFMXIA.mp4/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NL3OT1" group-title="001م المصري رمضان2022العائدون",الحلقةS01E05
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2022-04-07/studioBVNOY.smil/chunklist.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NL3OT1" group-title="001م المصري رمضان2022العائدون",الحلقةS01E06
+https://cdn.alarab.com/h264/170819_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35yYRv5" group-title="001م المصري رمضان2022اللغز",الحلقةS01E01
 https://fvideo6.ddns.me/2vod5n/allogz-1.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35yYRv5" group-title="001م المصري رمضان2022اللغز",الحلقةS01E02
