@@ -61,7 +61,9 @@ https://fvideo6.ddns.me/2vod5n/zel-4.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3qYsxt0" group-title="001م السوري رمضان2022ظل",الحلقةS01E05
 https://fvideo6.ddns.me/2vod5n/zel-5.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3qYsxt0" group-title="001م السوري رمضان2022ظل",الحلقةS01E06
-https://cdn.alarab.com/h264/170774_480p.mp4/index-v1-a1.m3u8?/ss/
+https://cdn.alarab.com/h264/170774_720p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3qYsxt0" group-title="001م السوري رمضان2022ظل",الحلقةS01E07
+https://cdn.alarab.com/h264/170833_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3jeqCw5" group-title="001م السوري رمضان2022الفرسان الثلاثة",الحلقةS01E01
 https://cdn.alarab.com/h264/170678_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3jeqCw5" group-title="001م السوري رمضان2022الفرسان الثلاثة",الحلقةS01E02
@@ -132,6 +134,8 @@ https://cdn.alarab.com/h264/170771_720p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/170782_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3LHtoqd" group-title="001م السوري رمضان2022جوقة عزيزة",الحلقةS01E06
 https://cdn.alarab.com/h264/170790_720p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3LHtoqd" group-title="001م السوري رمضان2022جوقة عزيزة",الحلقةS01E07
+https://cdn.alarab.com/h264/170834_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uO51Ae" group-title="001م السوري رمضان2022مع وقف التنفيذ",الحلقةS01E01
 https://cdn.alarab.com/h264/170511_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uO51Ae" group-title="001م السوري رمضان2022مع وقف التنفيذ",الحلقةS01E02
@@ -238,6 +242,8 @@ https://cdn.alarab.com/h264/170724_720p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/170725_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3J2JTeo" group-title="001م السوري رمضان2022للموت 2",الحلقةS02E06
 https://cdn.alarab.com/h264/170774_720p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3J2JTeo" group-title="001م السوري رمضان2022للموت 2",الحلقةS02E07
+https://cdn.alarab.com/h264/170832_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NFqlQZ" group-title="001م المصري رمضان2022بابلو",الحلقةS01E01
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2022-04-02/vidm62DZkGceS.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NFqlQZ" group-title="001م المصري رمضان2022بابلو",الحلقةS01E02
