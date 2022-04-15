@@ -2838,25 +2838,7 @@ http://66.45.232.130:9994/
 http://66.45.232.130:9998/
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="0اسلاميةIslami",Maher Al Meaqli-Kaf
 http://server12.mp3quran.net/maher/018.mp3
-#EXTINF:-1 tvg-id="ext" group-title="0SSC SPORT",SPORT CHANNELS
-https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0SSC SPORT",كيف احصل على الكود
-https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01-01.png" group-title="0SSC SPORT",SSC 1 
-http://localchannels.zinamedia.net/ar-s/SSC1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC 2 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_2HD_AW-01.png" group-title="0SSC SPORT",SSC 2 
-http://localchannels.zinamedia.net/ar-s/SSC2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC 3 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_3HD_AW-01.png" group-title="0SSC SPORT",SSC 3 
-http://localchannels.zinamedia.net/ar-s/SSC3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC 4 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_4HD_AW-01.png" group-title="0SSC SPORT",SSC 4 
-http://localchannels.zinamedia.net/ar-s/SSC4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC 5 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_5HD_AW-01.png" group-title="0SSC SPORT",SSC 5 
-http://localchannels.zinamedia.net/ar-s/SSC5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC 6 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_6HD_AW-01.png" group-title="0SSC SPORT",SSC 6 
-http://localchannels.zinamedia.net/ar-s/SSC6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC 7 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png" group-title="0SSC SPORT",SSC 7 
-http://localchannels.zinamedia.net/ar-s/SSC7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 SD" tvg-logo="https://i.ibb.co/3sdqXVN/1.png" group-title="0SSC SPORT",SSC 1 SD
 http://airmaxtv2022.online:80/airmaxtvbbeex/fFGWCXYDDzxE/1524
 #EXTINF:-1 tvg-id="" tvg-name="SSC 2 HD" tvg-logo="http://delux-iptv.com:8000/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="0SSC SPORT",SSC 2 HD
@@ -2871,19 +2853,6 @@ http://airmaxtv2022.online:80/airmaxtvbbeex/fFGWCXYDDzxE/1528
 http://airmaxtv2022.online:80/airmaxtvbbeex/fFGWCXYDDzxE/1529
 #EXTINF:-1 tvg-id="" tvg-name="SSC 7 SD" tvg-logo="http://delux-iptv.com:8000/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="0SSC SPORT",SSC 7 SD
 http://airmaxtv2022.online:80/airmaxtvbbeex/fFGWCXYDDzxE/1530
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="0SSC SPORT",FIGHT SPORT FHD
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="0SSC SPORT",FIGHT SPORT SD
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fY7Ms5" group-title="0SSC SPORT",SSC Action Waleed FHD
-https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fY7Ms5" group-title="0SSC SPORT",SSC Action Waleed SD
-https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="0SSC SPORT",SSC Action Waleed Extra FHD
-https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="0SSC SPORT",SSC Action Waleed Extra SD
-https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index_3.m3u8
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD" tvg-logo="https://i.pinimg.com/originals/f3/f8/8f/f3f88f9887b0cb3ea04a43fd4856e02b.png" group-title="0BEIN SPORT",BeIN Sports HD
