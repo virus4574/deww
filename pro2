@@ -3,8 +3,6 @@
 https://bit.ly/3pWtmPO
 #EXTINF:0 tvg-id="TRT1.tr" group-title="TURKEY",TRT 1 FHD
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
-#EXTINF:0 tvg-id="TRT1.tr" group-title="TURKEY",TRT 1 HD
-http://195.250.60.146:4022/udp/239.203.1.213:3301
 #EXTINF:0 tvg-id="ATV.tr" group-title="TURKEY",ATV UHD
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:0 tvg-id="ATV.tr" group-title="TURKEY",ATV FHD
