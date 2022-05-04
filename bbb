@@ -11,9 +11,9 @@ https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/FwcnQIOhfss4B9Mbx0vs0
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",3تعمل وقت المبارات المهمه
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/GWNnbw1Dakc_tG30LF-AnDz-hOPNNP1uHfF_betMgA6NhfIfh78aix8IP5QUkzIojHrfrb3gtuk1BeXm5pSn8w/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live?PLEX4k
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",4تعمل وقت المبارات المهمه
-
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",5تعمل وقت المبارات المهمه
-
+https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4611563/e/1_hz795xeq/tl/main/st/0/t/X76ST_J1ww_wXNavzw6IxQ/index-s32.m3u8?__hdnea__=st=1651685304~exp=1651771704~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4611563/e/1_hz795xeq/tl/main/st/0/t/X76ST_J1ww_wXNavzw6IxQ/index-s32.m3u8*~hmac=77b48afee9066c2ac7f07bd1c8b9eccd6a219ee38eb365335bc2e939b157db18
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",6تعمل وقت المبارات المهمه
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORT NEWS
