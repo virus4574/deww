@@ -207,23 +207,6 @@ http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 http://media6.smc-host.com:1935/omgchannel.net/omgseries/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="ext" group-title="0باقة 4G"",باقة 4G
-https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext" group-title="0باقة 4G"",النسخة المدفوعة AirMax TV
-https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقة 4G"",افلام
-http://45.94.31.190:7002/play/a0di
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقة 4G"",4G CIMA
-http://45.94.31.190:7002/play/a0ch
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقة 4G"",4G CINEMA
-http://45.94.31.190:7002/play/a0dj
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقة 4G"",4G CLASSIC
-http://45.94.31.190:7002/play/a0cj
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقة 4G"",4G DRAMA
-http://45.94.31.190:7002/play/a0ck
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقة 4G"",4G FILM
-http://45.94.31.190:7002/play/a0cl
-
 #EXTINF:0 tvg-id="ext" group-title="0باقة APPLE",APPLE AFLAM
 http://149.62.183.214:8000/play/a03k/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="0باقة APPLE",APPLE ALWAN
@@ -251,52 +234,88 @@ http://149.62.183.214:8000/play/a033/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="0باقة EGYBEST",EGYBEST TODAY
 http://149.62.183.214:8000/play/a03r/index.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةBEIRUT",BEIRUT AFLAM
-http://45.94.31.190:7002/play/a0cs
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةBEIRUT",BEIRUT ALYOOM
-http://45.94.31.190:7002/play/a0ct
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةBEIRUT",BEIRUT CINEMA
-http://45.94.31.190:7002/play/a0cu
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةBEIRUT",BEIRUT CLASSIC
-http://45.94.31.190:7002/play/a0cv
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةBEIRUT",BEIRUT DRAMA
-http://45.94.31.190:7002/play/a0cw
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةBEIRUT",BELADI TV
-http://45.94.31.190:7004/play/a0cg
 
+#EXTINF:-1 tvg-id="ext" group-title="0باقة 4G",باقة 4G
+https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext" group-title="0باقة 4G",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+#EXTINF:0 tvg-id="ext" group-title="0باقة 4G",4G AFLAM
+http://185.236.229.50:8000/play/a05b
+#EXTINF:0 tvg-id="ext" group-title="0باقة 4G",4G CIMA
+http://185.236.229.50:8000/play/a049
+#EXTINF:0 tvg-id="ext" group-title="0باقة 4G",4G CINEMA
+http://185.236.229.50:8000/play/a05c
+#EXTINF:0 tvg-id="ext" group-title="0باقة 4G",4G CLASSIC
+http://185.236.229.50:8000/play/a04b
+#EXTINF:0 tvg-id="ext" group-title="0باقة 4G",4G DRAMA
+http://185.236.229.50:8000/play/a04c
+#EXTINF:0 tvg-id="ext" group-title="0باقة 4G",4G FILM
+http://185.236.229.50:8000/play/a04d
 
+#EXTINF:0 tvg-id="ext" group-title="0باقةBEIRUT",BEIRUT AFLAM
+http://185.236.229.50:8000/play/a04l
+#EXTINF:0 tvg-id="ext" group-title="0باقةBEIRUT",BEIRUT ALYOOM
+http://185.236.229.50:8000/play/a04m
+#EXTINF:0 tvg-id="ext" group-title="0باقةBEIRUT",BEIRUT CINEMA
+http://185.236.229.50:8000/play/a04n
+#EXTINF:0 tvg-id="ext" group-title="0باقةBEIRUT",BEIRUT CLASSIC
+http://185.236.229.50:8000/play/a04o
+#EXTINF:0 tvg-id="ext" group-title="0باقةBEIRUT",BEIRUT DRAMA
+http://185.236.229.50:8000/play/a04p
+#EXTINF:0 tvg-id="ext" group-title="0باقةBEIRUT",BELODY AFLAM
+http://185.236.229.50:8000/play/a048
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةDRAMA",DRAMA 1
-http://45.94.31.190:7002/play/a0d1
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةDRAMA",DRAMA 2
-http://45.94.31.190:7002/play/a0d2
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةDRAMA",Drama 3
-http://45.94.31.195:7001/play/a0c5
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةDRAMA",DRAMA ALWAN
-http://45.94.31.190:7002/play/a0d3
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةDRAMA",DREAM 7KAYAT
-http://45.94.31.190:7003/play/a0cz
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةDRAMA",DREAM AFLAM
-http://45.94.31.190:7003/play/a0cn
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةDRAMA",DREAM CINEMA
-http://45.94.31.190:7003/play/a0cy
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةDRAMA",DREAM EL YOUM
-http://45.94.31.190:7003/play/a0ck
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةDRAMA",DREAM TURKY
-http://45.94.31.190:7003/play/a0cx
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةDRAMA",DREAM ZAMAN
-http://45.94.31.190:7003/play/a0cv
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",DRAMA 1
+http://185.236.229.50:8000/play/a04u
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",DRAMA 2
+http://185.236.229.50:8000/play/a056
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",DRAMA 4
+http://185.236.229.50:8000/play/a04v
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",ORPIT AL YOUM
+http://185.236.229.50:8000/play/a04z
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",ORPIT CINEMA
+http://185.236.229.50:8000/play/a050
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",ORPIT DRAMA
+http://185.236.229.50:8000/play/a051
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",ORPIT HEKAYAT
+http://185.236.229.50:8000/play/a052
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",ORPIT MOVIES
+http://185.236.229.50:8000/play/a053
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",DREAM 7KAYAT
+http://185.236.229.50:8001/play/a01m
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",DREAM AFLAM
+http://185.236.229.50:8001/play/a01a
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",DREAM CINEMA
+http://185.236.229.50:8001/play/a01l
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",DREAM EL YOUM
+http://185.236.229.50:8001/play/a017
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",DREAM TURKY
+http://185.236.229.50:8001/play/a01k
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",DREAM ZAMAN
+http://185.236.229.50:8001/play/a01i
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",SHOOF AFLAM
+http://185.236.229.50:8001/play/a01f
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",SHOOF MIX
+http://185.236.229.50:8001/play/a01d
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",SHOOF MOSALSALAT
+http://185.236.229.50:8001/play/a01e
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",shoof cinema
+http://185.236.229.50:8001/play/a01c
+#EXTINF:0 tvg-id="ext" group-title="0باقةDRAMA",SHOOF DRAMA
+http://185.236.229.50:8000/play/a058
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةSHOOF",SHOOF AFLAM
-http://45.94.31.190:7003/play/a0cs
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةSHOOF",shoof cinema
-http://45.94.31.190:7003/play/a0cp
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةSHOOF",SHOOF DRAMA
-http://45.94.31.190:7002/play/a0df
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةSHOOF",SHOOF MIX
-http://45.94.31.190:7003/play/a0cq
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="0باقةSHOOF",SHOOF MOSALSALAT
-http://45.94.31.190:7003/play/a0cr
+#EXTINF:0 tvg-id="ext" group-title="0باقةEltelevesion",Eltelevesion aflam
+http://185.236.229.50:8001/play/a018
+#EXTINF:0 tvg-id="ext" group-title="0باقةEltelevesion",Eltelevesion cinema
+http://185.236.229.50:8001/play/a01b
+#EXTINF:0 tvg-id="ext" group-title="0باقةEltelevesion",Eltelevesion drama
+http://185.236.229.50:8001/play/a016
+#EXTINF:0 tvg-id="ext" group-title="0باقةEltelevesion",Eltelevesion elyoum
+http://185.236.229.50:8001/play/a015
+#EXTINF:0 tvg-id="ext" group-title="0باقةEltelevesion",Eltelevesion hekayat
+http://185.236.229.50:8001/play/a019
+#EXTINF:0 tvg-id="ext" group-title="0باقةEltelevesion",Eltelevesion zaman
+http://185.236.229.50:8001/play/a01n
 
 #EXTINF:-1 tvg-id="ext" group-title="0رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
